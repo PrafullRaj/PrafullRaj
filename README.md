@@ -18,3 +18,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrafullRaj&layout=compact&theme=cobalt&hide_border=true" />
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PrafullRaj/count.svg" />
+</p>
