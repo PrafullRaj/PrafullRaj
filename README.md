@@ -17,6 +17,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrafullRaj&layout=compact&theme=cobalt&hide_border=true" />
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-narkhede&show_icons=true&locale=en&layout=compact" alt="atharva-narkhede" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrafullRaj&" alt="PrafullRaj" /></p>
+
+
+<a href=#><img src="progress.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
